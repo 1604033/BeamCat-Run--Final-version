@@ -1,2 +1,2 @@
-# BeamCat-Run (Final version)
- A version of BeamCat Run game.
+# BeamCat_Project
+ This is a Beamcat platformer game.
